@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: white;
+    width: 100%;
+    color: #333;
+    text-align: center;
+    font-size: 400;
+    line-height: 1.6;
+    font-family:  'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+
+.intro {
+    margin: 20px;
+    background-color: white;
+}
+
+
+.intro img, .intro figcaption {
+padding-bottom: 20px;
+}
+
+
+.text-start {
+   padding-left: 25em ;
+   padding-right: 25em;
+   padding-top: 20px;
+}
+
+li {
+    padding-bottom: 15px;
+}
+
+.citation div  {
+    margin-top: 25px;
+    margin-bottom: 30px;
+
+}
+
+a {
+    cursor: pointer;
+}
